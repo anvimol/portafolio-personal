@@ -10,3 +10,4 @@ class AboutAdmin(admin.ModelAdmin):
 
 admin.site.register([Course, Skill], AboutAdmin)
 
+# prueba
